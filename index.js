@@ -8,7 +8,7 @@ if (word === "tuesday") {
     alert("seshanba");
 }
 
-if (word === "wedn") {
+if (word === "wednesday") {
 alert("chorshanba")
 }
 
